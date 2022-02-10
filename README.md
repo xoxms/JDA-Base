@@ -3,6 +3,13 @@ A JDA base for creating discord bots.
 
 <hr>
 
+<strong>JDA</strong>
+- [Github](https://github.com/DV8FromTheWorld/JDA)
+- [Docs](https://ci.dv8tion.net/job/JDA5/javadoc/)
+- [Discord](https://discord.gg/0hMr4ce0tIl3SLv5)
+
+<hr>
+
 <strong>Important Classes</strong>
 - [Config](https://github.com/thevvx/JDA-Base/blob/main/src/main/java/bar/vvx/base/jda/config.java)
 - [Main Class](https://github.com/thevvx/JDA-Base/blob/main/src/main/java/bar/vvx/base/jda/Main.java)
@@ -18,7 +25,7 @@ A JDA base for creating discord bots.
 <hr>
 
 <strong>Reminder</strong>
-- No Slash Command Support For Now
+- No Slash Command Support For Now (you need to code it yourself, no slash command manager)
 
 <hr>
 
