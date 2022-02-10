@@ -60,7 +60,9 @@ public class SubcommandExample1 /* first, extends `SubCommand` class */ extends 
         Example :
             in discord -> ,sub1 test hello world               space
 
-            message = test hello world               space
+            message = ,sub1 test hello world               space
+            
+            BUT if the command is called by a `SubCommand` class the first word is removed : message = test hello world               space
 
         */
 
