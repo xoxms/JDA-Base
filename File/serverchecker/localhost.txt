@@ -1,0 +1,29 @@
+# YOU CAN USE "#" TO COMMENT OUT CODE
+
+# SERVERIP = Server IP address that we want to check
+# CHANNELID = Discord Text Channel ID
+# MENTION = Mention on send message or not
+# MENTIONID = User ID that you want to mention
+# MENTIONCHANNELID = Channel ID that you want to mention
+# NAME = Username you want to check, if found, it will send a message and mention the user
+
+# FORMAT                - SERVERIP>CHANNELID
+
+# FORMAT                ! CONFIG MENTION:boolean
+
+# FORMAT                ! CONFIG MENTIONID:boolean
+
+# FORMAT                ! CONFIG MENTIONCHANNELID:CHANNELID
+
+# FORMAT                . ADDNAME>NAME
+
+! CONFIG MENTION:true
+! CONFIG MENTIONID:123456789
+! CONFIG MENTIONCHANNELID:123456789
+
+. ADDNAME>MC_MzCGT
+. ADDNAME>Tinvv
+
+- localhost>123456789
+# - localhost:5176>123456789
+# - localhost:5204>123456789
