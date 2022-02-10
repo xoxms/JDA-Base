@@ -10,7 +10,7 @@ public abstract class ScheduledTask {
 
     public ScheduledTask() {
         ScheduledTaskInfo scheduledTaskInfo = this.getClass().getAnnotation(ScheduledTaskInfo.class);
-        Validate.notNull(scheduledTaskInfo, "ScheduleTaskInfo annotation not found on class " + this.getClass().getName());
+        Validate.notNull(scheduledTaskInfo, "ScheduledTaskInfo annotation not found on class " + this.getClass().getName());
         this.delay = scheduledTaskInfo.delay();
         this.timeUnit = scheduledTaskInfo.timeUnit();
     }
