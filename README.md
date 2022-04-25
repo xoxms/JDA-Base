@@ -30,4 +30,4 @@ A JDA base for creating discord bots.
 <hr>
 
 <strong>Inspiration</strong>
-- [Command System](https://github.com/narumii/Niko) : Niko Client by narumii
+- Command System : [Niko Client](https://github.com/narumii/Niko) by [narumii](https://github.com/narumii)
