@@ -25,7 +25,8 @@ A JDA base for creating discord bots.
 <hr>
 
 <strong>Reminder</strong>
-- No Slash Command Support For Now (you need to code it yourself, no slash command manager)
+- ~~No Slash Command Support For Now (you need to code it yourself, no slash command manager)~~ <br>
+  <strong>UPDATED: New [JDA Base](https://github.com/Monmcgt/Kotlin-JDA-Base) written in Kotlin supports Slash Command</strong>
 
 <hr>
 
